@@ -1,0 +1,9 @@
+#box {
+    width: 225px;
+    height: 200px;
+    position: absolute;
+    background: gray;
+    left: 200px;
+    top: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHJ7HstWCruz4R7UXesCeAgZ1HMRD8E_w7YHyMSZz2rWPkZiT)
+}
